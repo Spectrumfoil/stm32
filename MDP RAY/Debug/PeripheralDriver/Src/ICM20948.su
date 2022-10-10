@@ -1,0 +1,14 @@
+../PeripheralDriver/Src/ICM20948.c:37:19:_ICM20948_SelectUserBank	48	static
+../PeripheralDriver/Src/ICM20948.c:54:19:_ICM20948_WriteByte	40	static
+../PeripheralDriver/Src/ICM20948.c:70:19:_ICM20948_ReadByte	48	static
+../PeripheralDriver/Src/ICM20948.c:86:19:_ICM20948_BrustRead	40	static
+../PeripheralDriver/Src/ICM20948.c:102:19:_AK09918_WriteByte	40	static
+../PeripheralDriver/Src/ICM20948.c:117:19:_AK09918_ReadByte	48	static
+../PeripheralDriver/Src/ICM20948.c:132:19:_AK09918_BrustRead	48	static
+../PeripheralDriver/Src/ICM20948.c:147:9:ICM20948_isI2cAddress1	24	static
+../PeripheralDriver/Src/ICM20948.c:157:9:ICM20948_isI2cAddress2	24	static
+../PeripheralDriver/Src/ICM20948.c:167:6:ICM20948_init	24	static
+../PeripheralDriver/Src/ICM20948.c:236:6:ICM20948_readGyroscope_allAxises	48	static
+../PeripheralDriver/Src/ICM20948.c:272:6:ICM20948_readAccelerometer_allAxises	40	static
+../PeripheralDriver/Src/ICM20948.c:308:6:ICM20948_readTemperature	40	static
+../PeripheralDriver/Src/ICM20948.c:319:6:ICM20948_readMagnetometer_allAxises	32	static

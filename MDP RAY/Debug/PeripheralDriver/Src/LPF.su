@@ -1,0 +1,2 @@
+../PeripheralDriver/Src/LPF.c:18:6:LPF_Init2	24	static
+../PeripheralDriver/Src/LPF.c:37:10:LPF_Calc2	16	static
